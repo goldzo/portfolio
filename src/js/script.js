@@ -81,7 +81,7 @@ const projects = [
   {
     id: 4,
     name: 'Simple todo-list',
-    description: 'Looking for a simple solution for keeping you tidy? Use this and youl\'ll now how to organized, this also provides a free data save, sso when you refresh or your computer crashes or wtv, your data will be saved, not to the a data but your localStorage.',
+    description: 'Looking for a simple solution for keeping you tidy? Use this and youl will know how to organized, this also provides a free data save, sso when you refresh or your computer crashes or wtv, your data will be saved.',
     cardImage: 'https://cdn.discordapp.com/attachments/1212866764925435924/1212928172186927177/image.png?ex=65f39e63&is=65e12963&hm=100c86af302520a2c7ba6a9600e416eaae9cd940a8190544bc319cbbd4e8bb34&',
     modalImage: 'https://cdn.discordapp.com/attachments/1212866764925435924/1212928172186927177/image.png?ex=65f39e63&is=65e12963&hm=100c86af302520a2c7ba6a9600e416eaae9cd940a8190544bc319cbbd4e8bb34&',
     imageAlt: 'Todo Image',
