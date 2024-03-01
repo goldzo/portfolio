@@ -75,7 +75,7 @@ const projects = [
     modalImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1212599591820595301/image.png?ex=65f26c5f&is=65dff75f&hm=00bbef0b23bc15ee72a3627cb4d60195afdb579b1c6f07fcb59a3a286781ed9b&',
     imageAlt: 'Calculator',
     technologies: ['HTML', 'Javascript', 'CSS'],
-    liveLink: '../src/projects/calculator/index.html',
+    liveLink: '../src/stuff/calculator/index.html',
     sourceLink: 'https://github.com/goldzo/portfolio/',
   },
   {
@@ -86,7 +86,7 @@ const projects = [
     modalImage: 'https://cdn.discordapp.com/attachments/1212866764925435924/1212928172186927177/image.png?ex=65f39e63&is=65e12963&hm=100c86af302520a2c7ba6a9600e416eaae9cd940a8190544bc319cbbd4e8bb34&',
     imageAlt: 'Todo Image',
     technologies: ['HTML', 'CSS', 'JavaScript'],
-    liveLink: '../src/projects/to-do list/index.html',
+    liveLink: '../src/stuff/to-do list/index.html',
     sourceLink: 'https://github.com/goldzo/portfolio/',
   },
 ];
