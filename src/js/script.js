@@ -54,7 +54,7 @@ const projects = [
     imageAlt: 'Convo',
     technologies: ['Node.js', 'Discord.js'],
     liveLink: 'https://discord.gg/QV6FEnRk7q',
-    sourceLink: 'https://poop.vercel.app',
+    sourceLink: 'https://discord.gg/QV6FEnRk7q',
   },
   {
     id: 2,
@@ -65,7 +65,7 @@ const projects = [
     imageAlt: 'Gold Portfolio',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Webpack'],
     liveLink: '#',
-    sourceLink: 'https://poop.vercel.app',
+    sourceLink: 'https://github.com/goldzo/portfolio/',
   },
   {
     id: 3,
@@ -73,10 +73,21 @@ const projects = [
     description: 'This is a mobile application that collates and displays the updated cryptocurrency market data in real time, showing all significant cryptocurrencies, including their current price, market valuation, rank, and more. Built with React and Redux.',
     cardImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1212599591820595301/image.png?ex=65f26c5f&is=65dff75f&hm=00bbef0b23bc15ee72a3627cb4d60195afdb579b1c6f07fcb59a3a286781ed9b&',
     modalImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1212599591820595301/image.png?ex=65f26c5f&is=65dff75f&hm=00bbef0b23bc15ee72a3627cb4d60195afdb579b1c6f07fcb59a3a286781ed9b&',
-    imageAlt: 'Cryptobillia',
+    imageAlt: 'Calculator',
     technologies: ['HTML', 'Javascript', 'CSS'],
     liveLink: '../src/projects/calculator/index.html',
-    sourceLink: 'https://poop.vercel.app',
+    sourceLink: 'https://github.com/goldzo/portfolio/',
+  },
+  {
+    id: 4,
+    name: 'A simple todo-list',
+    description: 'Looking for a simple solution for keeping you tidy? Use this and youl\'ll now how to organized, this also provides a free data save, sso when you refresh or your computer crashes or wtv, your data will be saved, not to the a data but your localStorage.',
+    cardImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1212584109130518649/image.png?ex=65f25df4&is=65dfe8f4&hm=0dda23c0135744fb7e888a42bc187c8b5eddaf486e29c4a085a256e096c39d19&',
+    modalImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1212584109130518649/image.png?ex=65f25df4&is=65dfe8f4&hm=0dda23c0135744fb7e888a42bc187c8b5eddaf486e29c4a085a256e096c39d19&',
+    imageAlt: 'Gold Portfolio',
+    technologies: ['HTML', 'CSS', 'JavaScript'],
+    liveLink: '../src/projects/to-do list/index.html',
+    sourceLink: 'https://github.com/goldzo/portfolio/',
   },
 ];
 
