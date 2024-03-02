@@ -89,6 +89,17 @@ const projects = [
     liveLink: 'https://goldzo.github.io/portfolio/src/stuff/to-do%20list/index.html',
     sourceLink: 'https://github.com/goldzo/portfolio/',
   },
+  {
+    id: 5,
+    name: 'Fetch Random Joke',
+    description: 'not doing this description bro',
+    cardImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1213315312791978035/image.png?ex=65f506f0&is=65e291f0&hm=8e16e9cd9e99620e394a93bc5ce3a80c1af0cc580c6c92c1c694b7103bb575a4&',
+    modalImage: 'https://cdn.discordapp.com/attachments/1207901649117646950/1213315312791978035/image.png?ex=65f506f0&is=65e291f0&hm=8e16e9cd9e99620e394a93bc5ce3a80c1af0cc580c6c92c1c694b7103bb575a4&',
+    imageAlt: 'Joke Image',
+    technologies: ['HTML', 'CSS', 'JavaScript'],
+    liveLink: 'https://goldzo.github.io/portfolio/src/stuff/fetchjokes/index.html',
+    sourceLink: 'https://github.com/goldzo/portfolio/',
+  },
 ];
 
 function showModal() {
